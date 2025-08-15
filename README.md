@@ -2,7 +2,7 @@
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)
 # Cyclistic Case Study
 
-![Duração média das viagens por perfil de usuário](imagens/Duração média das viagens por dia da semana.png)
+![Duração média das viagens por perfil de usuário](imagens/Duraçãomédiadasviagens.png)
 > **Este projeto foi desenvolvido como Trabalho de Conclusão de Curso (TCC) no programa Google Data Analytics.**
 
 ## Visão Geral do Projeto
@@ -27,6 +27,7 @@ O projeto segue as etapas do ciclo analítico:
      - `01_Process.ipynb`: Limpeza e preparação dos dados.
      - `02_Analyze.ipynb`, `03_Share`: Análise exploratória, visualizações e insights.
    - Siga as instruções nos próprios notebooks para carregar e processar os dados.
+   - **Dica:** Se preferir evitar erros de dependência entre os notebooks, junte todas as etapas em um único notebook sequencial.
 
 4. **Resultados**
    - As principais visualizações podem ser encontradas na pasta `imagens/`.
