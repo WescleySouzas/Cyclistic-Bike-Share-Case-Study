@@ -2,7 +2,7 @@
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)
 # Cyclistic Case Study
 
-![Duração média das viagens por perfil de usuário](imagens/Duração média das viagens por dia da semana.png)
+![Duração média das viagens por perfil de usuário](imagens/Duraçãomédiadasviagens.png)
 > **Este projeto foi desenvolvido como Trabalho de Conclusão de Curso (TCC) no programa Google Data Analytics.**
 
 ## Visão Geral do Projeto
